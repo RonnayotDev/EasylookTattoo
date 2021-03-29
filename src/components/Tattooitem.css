@@ -1,0 +1,13 @@
+.tattoo-items img{
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
+  .tattoo-items h4{
+    margin-bottom: 30px;
+  }
+  .tattoo-items:hover{
+    transform: scale(1.2);
+    transition: all 0.25 ease-out;
+    cursor: pointer;
+  }
